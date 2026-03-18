@@ -21,7 +21,7 @@ An interactive command-line chatbot powered by [Mistral AI](https://www.mistral.
 1. Clone the repository:
 
 ```bash
-git clone < https://github.com/aminharoon/mistral-chat-cli.git>
+git clone https://github.com/aminharoon/mistral-chat-cli.git
 cd mistral-chat-cli
 ```
 
